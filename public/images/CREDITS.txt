@@ -1,0 +1,21 @@
+MICHELANGELO: THE LIVING ATELIER
+
+This is an independent, imagined contemporary artist website.
+
+Pieta photograph
+Photographer: Stanislav Traykov. Background cutout: Niabot.
+Source: https://commons.wikimedia.org/wiki/File:Michelangelo%27s_Pieta_5450_cut_out_black.jpg
+License: Creative Commons Attribution-ShareAlike 3.0 Unported
+https://creativecommons.org/licenses/by-sa/3.0/
+Changes: WebP conversion; display cropping and CSS tonal adjustments.
+The adapted photograph remains licensed under CC BY-SA 3.0.
+
+The Creation of Adam, hands detail
+Artist: Michelangelo Buonarroti, c. 1512.
+Source: https://commons.wikimedia.org/wiki/File:Creation_of_Adam_(Michelangelo)_Detail.jpg
+Public-domain reproduction of a public-domain two-dimensional artwork.
+Changes: WebP conversion; display cropping and CSS tonal adjustments.
+
+Atelier entrance / David portrait, anatomical studies, architectural study,
+and unfinished figure: AI-generated atmospheric interpretations created for
+this experience. These are not archival photographs or authenticated works.
